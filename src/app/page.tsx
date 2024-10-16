@@ -11,9 +11,7 @@ export default function Home() {
         <main className={styles.main}> */}
       {/* <NavigationBar /> */}
       <Logo />
-      <Button variant="contained" color="primary">
-        Text
-      </Button>
+        Navigate to: http://localhost:3000/user/onlyminty/submissions
       {/* </main>
       </div> */}
     </div>
